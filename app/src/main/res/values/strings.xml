@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoaAção</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_import">Import</string>
+    <string name="Home">DoaAção</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_slideshow">Slideshow</string>
+    <string name="title_activity_tools">Tools</string>
+    <string name="android_studio">renomear</string>
+    <string name="android_studio_android_com">renomear2</string>
+    <string name="o_que_esta_doando">O que esta doando?</string>
+</resources>
